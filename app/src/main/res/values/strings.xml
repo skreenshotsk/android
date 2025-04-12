@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">City name</string>
+    <string name="days_count">Days amount</string>
+    <string name="show_weather">Show weather</string>
+    <string name="weather_forecast">Weather Forecast</string>
+</resources>
